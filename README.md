@@ -51,13 +51,13 @@ The dashboard analyzes **87K+ hotel booking records** to help stakeholders under
 
 ### Dashboard - Overview
 
-![Dashboard 1](Images/Dashboard1.png)
+![Dashboard 1](Dashboard1.png)
 
 ---
 
 ### Dashboard - Analysis
 
-![Dashboard 2](Images/Dashboard2.png)
+![Dashboard 2](Dashboard2.png)
 
 ---
 
